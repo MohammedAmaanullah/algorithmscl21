@@ -1,2 +1,2 @@
-# algorithmscl21
-the blocks bounce off once they touch each other
+# collisionAlgorithm
+Algorithm to detect collision between two objects
